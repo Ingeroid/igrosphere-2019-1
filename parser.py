@@ -29,6 +29,9 @@ regexp = r"\[\d\d\d\d\.\d\d\.\d\d \d\d:\d\d:d\d\].+"
 lines = read_file(filename)
 print(filter_lines(regexp, lines))
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bb11080... fix regexp
+=======
 >>>>>>> parent of bb11080... fix regexp
 =======
 >>>>>>> parent of bb11080... fix regexp
